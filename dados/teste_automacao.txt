@@ -1,0 +1,3 @@
+Ola!
+Apenas um teste de automao com PyAutoGUI.
+Arquivo criado automaticamente.
